@@ -19,3 +19,5 @@ The simulator appears a USB Serial device which can be connected to through any 
 ```
 
 An example screenshot is shown below:
+
+![Example screenshot of the AudioMoth Altair 8800 simulator running in a terminal window.](screenshot.png)
