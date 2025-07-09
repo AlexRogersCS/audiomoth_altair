@@ -1,6 +1,6 @@
 # Audiomoth Altair
 
-A simulation of the Altair 8800 with 8KB RAM 1running Altair Basic 2.0 on an AudioMoth device.
+A simulation of the Altair 8800 with 8KB RAM running Altair BASIC 2.0 on an AudioMoth device.
 
 #### Usage ####
 
